@@ -2,7 +2,7 @@
 [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.lexica.art%2Ffull_jpg%2F4344015b-e5e9-4de7-9c02-930ee9a9f738&tbnid=5h9jjaMVjZqqHM&vet=12ahUKEwj4xJC65-eDAxX0kmMGHduOCvkQMygBegQIARBO..i&imgrefurl=https%3A%2F%2Flexica.art%2Fprompt%2Facd56b60-2dfc-4f68-b2df-dca13bf90b82&docid=fWph232OcBQQKM&w=2560&h=2048&q=coding%20images%20BEARD&ved=2ahUKEwj4xJC65-eDAxX0kmMGHduOCvkQMygBegQIARBO)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Naman Nitin Rao</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.lexica.art%2Ffull_jpg%2F4344015b-e5e9-4de7-9c02-930ee9a9f738&tbnid=5h9jjaMVjZqqHM&vet=12ahUKEwj4xJC65-eDAxX0kmMGHduOCvkQMygBegQIARBO..i&imgrefurl=https%3A%2F%2Flexica.art%2Fprompt%2Facd56b60-2dfc-4f68-b2df-dca13bf90b82&docid=fWph232OcBQQKM&w=2560&h=2048&q=coding%20images%20BEARD&ved=2ahUKEwj4xJC65-eDAxX0kmMGHduOCvkQMygBegQIARBO")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.lexica.art%2Ffull_jpg%2F4344015b-e5e9-4de7-9c02-930ee9a9f738&tbnid=5h9jjaMVjZqqHM&vet=12ahUKEwj4xJC65-eDAxX0kmMGHduOCvkQMygBegQIARBO..i&imgrefurl=https%3A%2F%2Flexica.art%2Fprompt%2Facd56b60-2dfc-4f68-b2df-dca13bf90b82&docid=fWph232OcBQQKM&w=2560&h=2048&q=coding%20images%20BEARD&ved=2ahUKEwj4xJC65-eDAxX0kmMGHduOCvkQMygBegQIARBO">
 
 - 🔭 I’m currently working on **Web based chat app**
 
